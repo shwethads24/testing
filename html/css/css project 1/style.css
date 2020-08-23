@@ -1,0 +1,43 @@
+/*Selector {
+    property:value;
+}*/
+
+body{
+    background-image: url(background.jpg);
+    background-size: 100% 340%;
+}
+h2{
+    color:red;
+    /*font-family: 'Poppins', sans-serif;*/
+    text-align: center;
+    border: 5px solid rgba(146, 133, 106,0.2) ;
+    cursor: pointer;
+}
+
+p{
+    color: black;
+   
+}
+li{
+    list-style: none;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color:blue;
+}
+.webpara {
+    border: 2px solid rgba(146,133,106,0.2);
+}
+.active{
+    color: purple;
+}
+#div1{
+    background-color : rgba(185, 180, 169, 0.473);
+}
+#div2{
+    background-color: rgba(148, 113, 143, 0.473);
+}
